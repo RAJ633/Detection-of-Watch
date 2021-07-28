@@ -1,7 +1,7 @@
 # Detection-of-Watch
 This project is based on detection of watch with help of OpenCV with Python (using self trained Haar Cascade .xml file) 
 
-#About the Project :
+About the Project :
 
 As I mentioned above that i have used self trained cascade(.xml) files 
 so, The steps to build our own cascade file are as below:
@@ -44,7 +44,7 @@ The dataset of Positive and Negative images, watch_cascade(.xml) file , code and
 # Why Cascade-Trainer-GUI for training ??
 Though there are other methods for training the cascade , I used Cascade-Trainer-GUI(application) for training my cascade because it user friendly i.e we can simply install this application on our system and train the cascade by specifying some parameter and few clicks , whereas other methods involves mounting the dataset from local machine to global machine ,etc which are complex and after many hours of training it is not guaranteed that the cascade will build successfully
 
-#CONCLUSION :
+CONCLUSION :
 With help of self trained cascade file along with OpenCV with Python I successfully detected the watch in the test image.
 We can also detect  watches in the vedio files and real time (using the webcams).
     
