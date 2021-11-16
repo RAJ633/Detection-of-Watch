@@ -47,5 +47,5 @@ Though there are other methods for training the cascade , I used Cascade-Trainer
 
 CONCLUSION :
 With help of self trained cascade file along with OpenCV with Python I successfully detected the watch in the test image.
-We can also detect  watches in the vedio files and real time (using the webcams).
+We can also detect  watches in the video files and real time (using the webcams).
     
